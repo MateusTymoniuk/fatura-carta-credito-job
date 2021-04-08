@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação">Utilização</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
